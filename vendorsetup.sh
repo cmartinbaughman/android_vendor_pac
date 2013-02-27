@@ -18,6 +18,7 @@ add_lunch_combo pac_mako-userdebug
 # HTC Rezound
 add_lunch_combo pac_vigor-userdebug
 # HTC 2013
+add_lunch_combo pac_shooter-userdebug
 add_lunch_combo pac_jewel-userdebug
 add_lunch_combo pac_evita-userdebug
 # Samsung 2013
